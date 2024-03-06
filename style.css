@@ -8,9 +8,11 @@
     box-sizing: border-box;
 }
 body{
+    width: 100vw;
     height: 100vh;
     background: url(imagens/foto-bio.jfif) center center no-repeat;
     background-size: cover;
+    
 }
 ::-webkit-scrollbar{
     height: 0px;
